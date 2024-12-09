@@ -15,22 +15,26 @@ relativeURLs = "true"
 baseURL = "/"
 publishDir = "public"
 
-# Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
-
-
 ## -----------------------------------------------
 ## Hugo Built-in Features
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "your-google-analytics-id"
+# googleAnalytics = "G-XXXXXXXXXX"
 
 ## -----------------------------------------------
 ## Site Parameters
 ## -----------------------------------------------
 
 [Params]
+description = ""
+logo = "images/banner.jpg"
+favicon = true
 
 [Params.social]
+github = "https://github.com/ablecncrepair/ablecncrepairllc.com"
+email = "ron.smith@ablecncrepairllc.com"
+
+[Params.asset]
+fontawesome_css = ["css/fontawesome-all.min.css"]
+fontawesome_js = ["js/fontawesome-all.min.js"]
