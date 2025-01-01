@@ -1,0 +1,6 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center"
+title : "Spotlight"
+content: |
+  Based in Longmont, Colorado, I service customers on the Rocky Mountain Front Range.
+image: "images/spotlight02.jpg"

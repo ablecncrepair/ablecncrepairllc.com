@@ -1,0 +1,7 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "addedValue"
+title : ""
+content: |
+  In addition to repairing equipment, I can install various optional hardware such as DRO system, lights and mist collectors.
+image: "images/spotlight03.jpg"

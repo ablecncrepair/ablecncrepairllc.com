@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Experience"
+content: |
+  After 40 years of field service work for a major international machine tool manufacture, I retired and have started a machine repair service company.
+button:
+  label: "Contact"
+  link: "#footer"
+image: "images/headshot.jpg"
