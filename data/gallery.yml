@@ -1,0 +1,38 @@
+title: "Services"
+style: ""
+galleryStyle: "style2 medium lightbox"
+content: |
+  In addition to repairing equipment, AbleCNC can install various optional hardware such as DRO system, lights, and mist collectors.
+  <br />Fanuc · Milltronics · Mitsubishi · Toyoda · SNK · DRO Installation
+pictures:
+  - title: "Mitsubishi M700 Controller"
+    image: "images/gallery/fulls/mitscontrol.jpg"
+    thumb: "images/gallery/thumbs/mitscontrol.jpg"
+
+  - title: "PLC"
+    image: "images/gallery/fulls/plc.jpg"
+    thumb: "images/gallery/thumbs/plc.jpg"
+
+  - title: "Troubleshooting Electronics"
+    image: "images/gallery/fulls/troubleshooting.jpg"
+    thumb: "images/gallery/thumbs/troubleshooting.jpg"
+
+  - title: "Milltronics Centurion 6"
+    image: "images/gallery/fulls/MillTronicCenturion6.jpg"
+    thumb: "images/gallery/thumbs/MillTronicCenturion6.jpg"
+
+  - title: "Fanuc CNC"
+    image: "images/gallery/fulls/fanuccnc.jpg"
+    thumb: "images/gallery/thumbs/fanuccnc.jpg"
+
+  - title: "Ball Screw Repair"
+    image: "images/gallery/fulls/BallScrewRepair.jpg"
+    thumb: "images/gallery/thumbs/BallScrewRepair.jpg"
+
+  - title: "Digital Read Out Installation"
+    image: "images/gallery/fulls/drolathe.jpg"
+    thumb: "images/gallery/thumbs/drolathe.jpg"
+
+  - title: "ATC Gripper"
+    image: "images/gallery/fulls/ATC Gripper Closeup.jpg"
+    thumb: "images/gallery/thumbs/ATC Gripper Closeup.jpg"

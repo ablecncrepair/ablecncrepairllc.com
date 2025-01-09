@@ -1,12 +1,12 @@
 ####################### Banner #########################
-style: "style1  fullscreen"
+style: "style1 fullscreen"
 title : "AbleCNC Repair, LLC"
 subtitle: |
-  Machine installation and repair
+  Installation · Repair · Maintenance
 content: |
-  I specialize in metal processing equipment. CNC Mills, Lathes, Transfer system, parts washer and other industrial equipment.
+  Metal Processing · CNC · Mills · Lathes · Transfer Systems · Parts Washers & More
 button:
-  label : "Contact"
-  link : "#contact"
+  label : "Learn More"
+  link : "#intro"
 image : "images/banner.jpg"
 
