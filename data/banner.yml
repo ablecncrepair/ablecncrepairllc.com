@@ -1,5 +1,6 @@
 ####################### Banner #########################
 style: "style1 fullscreen"
+logo: "images/logo.png"
 title : "AbleCNC Repair, LLC"
 subtitle: |
   Installation · Repair · Maintenance
