@@ -4,8 +4,7 @@
         {{ with .title }}<h2>{{ . }}</h2>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ if .actions }}<ul class="actions">
-            {{ range .actions }}
-            <li><a href="{{ .link }}" class="button large wide smooth-scroll-middle">{{ .label }}</a></li>
+            {{ range .actions }} <li><a href="{{ .link | safeURL }}" class="button large wide smooth-scroll-middle">{{ .label }}</a></li>
         {{ end }}
         </ul>{{ end }}
     </div>
