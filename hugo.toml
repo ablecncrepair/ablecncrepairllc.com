@@ -20,7 +20,7 @@ publishDir = "public"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "G-XXXXXXXXXX"
+googleAnalytics = "G-YY8FZQ9TE9"
 
 ## -----------------------------------------------
 ## Site Parameters
@@ -29,10 +29,9 @@ disableKinds = ["taxonomy", "section"]
 [Params]
 description = ""
 logo = "images/banner.jpg"
-favicon = true
+favicon = false
 
 [Params.social]
-github = "https://github.com/ablecncrepair/ablecncrepairllc.com"
 email = "ron.smith@ablecncrepairllc.com"
 
 [Params.asset]
